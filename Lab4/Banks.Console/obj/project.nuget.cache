@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "is5rlmSDyrJk1IowFvoNW0C8O7Ud/JPySkEwHxtm4EdGIEJWPYd1qG2kRUvoO9OdT8zMX4sCdq86L1wBjJ2GEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Core i5-8250\\Desktop\\github\\ООП\\SvetaYu\\Lab4\\Banks.Console\\Banks.Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Core i5-8250\\.nuget\\packages\\spectre.console\\0.45.1-preview.0.40\\spectre.console.0.45.1-preview.0.40.nupkg.sha512",
+    "C:\\Users\\Core i5-8250\\.nuget\\packages\\spectre.console.cli\\0.45.1-preview.0.40\\spectre.console.cli.0.45.1-preview.0.40.nupkg.sha512",
+    "C:\\Users\\Core i5-8250\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512",
+    "C:\\Users\\Core i5-8250\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}

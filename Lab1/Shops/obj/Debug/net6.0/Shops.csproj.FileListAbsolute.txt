@@ -1,0 +1,12 @@
+C:\Users\Core i5-8250\Desktop\ООП\SvetaYu\Lab1\Shops\bin\Debug\net6.0\Shops.deps.json
+C:\Users\Core i5-8250\Desktop\ООП\SvetaYu\Lab1\Shops\bin\Debug\net6.0\Shops.dll
+C:\Users\Core i5-8250\Desktop\ООП\SvetaYu\Lab1\Shops\bin\Debug\net6.0\Shops.pdb
+C:\Users\Core i5-8250\Desktop\ООП\SvetaYu\Lab1\Shops\obj\Debug\net6.0\Shops.csproj.AssemblyReference.cache
+C:\Users\Core i5-8250\Desktop\ООП\SvetaYu\Lab1\Shops\obj\Debug\net6.0\Shops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Core i5-8250\Desktop\ООП\SvetaYu\Lab1\Shops\obj\Debug\net6.0\Shops.AssemblyInfoInputs.cache
+C:\Users\Core i5-8250\Desktop\ООП\SvetaYu\Lab1\Shops\obj\Debug\net6.0\Shops.AssemblyInfo.cs
+C:\Users\Core i5-8250\Desktop\ООП\SvetaYu\Lab1\Shops\obj\Debug\net6.0\Shops.csproj.CoreCompileInputs.cache
+C:\Users\Core i5-8250\Desktop\ООП\SvetaYu\Lab1\Shops\obj\Debug\net6.0\Shops.dll
+C:\Users\Core i5-8250\Desktop\ООП\SvetaYu\Lab1\Shops\obj\Debug\net6.0\refint\Shops.dll
+C:\Users\Core i5-8250\Desktop\ООП\SvetaYu\Lab1\Shops\obj\Debug\net6.0\Shops.pdb
+C:\Users\Core i5-8250\Desktop\ООП\SvetaYu\Lab1\Shops\obj\Debug\net6.0\ref\Shops.dll

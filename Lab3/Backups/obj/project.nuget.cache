@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/gI2qXYINpD3spPzQigBw8tzNJxVOr/4EhTmMkScbhkUgtnqh6rdz+z6A8DTIGZ5+eZa3RHfqtn/yfq/2C5Kwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Core i5-8250\\Desktop\\github\\ООП\\SvetaYu\\Lab3\\Backups\\Backups.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Core i5-8250\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\Core i5-8250\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512",
+    "C:\\Users\\Core i5-8250\\.nuget\\packages\\zio\\0.15.0\\zio.0.15.0.nupkg.sha512"
+  ],
+  "logs": []
+}

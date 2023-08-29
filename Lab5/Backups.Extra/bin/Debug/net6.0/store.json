@@ -1,0 +1,226 @@
+{
+  "$type": "System.Collections.Generic.List`1[[Backups.Extra.Services.BackupTaskExtra, Backups.Extra]], System.Private.CoreLib",
+  "$values": [
+    {
+      "$id": "1",
+      "$type": "Backups.Extra.Services.BackupTaskExtra, Backups.Extra",
+      "task": {
+        "$id": "2",
+        "$type": "Backups.Services.BackupTask, Backups",
+        "backup": {
+          "$id": "3",
+          "$type": "Backups.Extra.Entities.BackupExtra, Backups.Extra",
+          "backup": {
+            "$id": "4",
+            "$type": "Backups.Models.Backup, Backups",
+            "_points": {
+              "$type": "System.Collections.Generic.List`1[[Backups.Models.RestorePoint, Backups]], System.Private.CoreLib",
+              "$values": [
+                {
+                  "$id": "5",
+                  "$type": "Backups.Models.RestorePoint, Backups",
+                  "_objects": {
+                    "$type": "System.Collections.Generic.List`1[[Backups.Models.BackupObject, Backups]], System.Private.CoreLib",
+                    "$values": [
+                      {
+                        "$id": "6",
+                        "$type": "Backups.Models.BackupObject, Backups",
+                        "Name": "obj2",
+                        "Repository": {
+                          "$id": "7",
+                          "$type": "Backups.Entities.FileSystemRepository, Backups",
+                          "Directory": "C:\\Users\\Core i5-8250\\Desktop\\repo2"
+                        }
+                      },
+                      {
+                        "$id": "8",
+                        "$type": "Backups.Models.BackupObject, Backups",
+                        "Name": "obj1.txt",
+                        "Repository": {
+                          "$id": "9",
+                          "$type": "Backups.Entities.FileSystemRepository, Backups",
+                          "Directory": "C:\\Users\\Core i5-8250\\Desktop\\repo1"
+                        }
+                      }
+                    ]
+                  },
+                  "Storage": {
+                    "$id": "10",
+                    "$type": "Backups.Entities.ZipStorage, Backups",
+                    "zipFolder": {
+                      "$id": "11",
+                      "$type": "Backups.Models.ZipFolder, Backups",
+                      "zipObjects": {
+                        "$type": "System.Collections.Generic.List`1[[Backups.Models.IZipObject, Backups]], System.Private.CoreLib",
+                        "$values": [
+                          {
+                            "$id": "12",
+                            "$type": "Backups.Models.ZipFolder, Backups",
+                            "zipObjects": {
+                              "$type": "System.Collections.Generic.List`1[[Backups.Models.IZipObject, Backups]], System.Private.CoreLib",
+                              "$values": [
+                                {
+                                  "$id": "13",
+                                  "$type": "Backups.Models.ZipFile, Backups",
+                                  "Name": "123.txt"
+                                },
+                                {
+                                  "$id": "14",
+                                  "$type": "Backups.Models.ZipFile, Backups",
+                                  "Name": "brr.txt"
+                                }
+                              ]
+                            },
+                            "Name": "obj2.zip"
+                          },
+                          {
+                            "$id": "15",
+                            "$type": "Backups.Models.ZipFile, Backups",
+                            "Name": "obj1.txt"
+                          }
+                        ]
+                      },
+                      "Name": "storage.zip"
+                    },
+                    "repository": {
+                      "$id": "16",
+                      "$type": "Backups.Entities.FileSystemRepository, Backups",
+                      "Directory": "C:\\Users\\Core i5-8250\\Desktop\\repo"
+                    },
+                    "Path": "C:\\Users\\Core i5-8250\\Desktop\\repo\\task2\\03.12.2022-08.16.42.28\\storage.zip"
+                  },
+                  "Objects": {
+                    "$type": "System.Collections.Generic.List`1[[Backups.Models.BackupObject, Backups]], System.Private.CoreLib",
+                    "$values": [
+                      {
+                        "$ref": "6"
+                      },
+                      {
+                        "$ref": "8"
+                      }
+                    ]
+                  },
+                  "Time": "2022-12-03T20:16:42.2809624+03:00"
+                },
+                {
+                  "$id": "17",
+                  "$type": "Backups.Models.RestorePoint, Backups",
+                  "_objects": {
+                    "$type": "System.Collections.Generic.List`1[[Backups.Models.BackupObject, Backups]], System.Private.CoreLib",
+                    "$values": [
+                      {
+                        "$ref": "6"
+                      },
+                      {
+                        "$ref": "8"
+                      }
+                    ]
+                  },
+                  "Storage": {
+                    "$id": "18",
+                    "$type": "Backups.Entities.ZipStorage, Backups",
+                    "zipFolder": {
+                      "$id": "19",
+                      "$type": "Backups.Models.ZipFolder, Backups",
+                      "zipObjects": {
+                        "$type": "System.Collections.Generic.List`1[[Backups.Models.IZipObject, Backups]], System.Private.CoreLib",
+                        "$values": [
+                          {
+                            "$id": "20",
+                            "$type": "Backups.Models.ZipFolder, Backups",
+                            "zipObjects": {
+                              "$type": "System.Collections.Generic.List`1[[Backups.Models.IZipObject, Backups]], System.Private.CoreLib",
+                              "$values": [
+                                {
+                                  "$id": "21",
+                                  "$type": "Backups.Models.ZipFile, Backups",
+                                  "Name": "123.txt"
+                                },
+                                {
+                                  "$id": "22",
+                                  "$type": "Backups.Models.ZipFile, Backups",
+                                  "Name": "brr.txt"
+                                }
+                              ]
+                            },
+                            "Name": "obj2.zip"
+                          },
+                          {
+                            "$id": "23",
+                            "$type": "Backups.Models.ZipFile, Backups",
+                            "Name": "obj1.txt"
+                          }
+                        ]
+                      },
+                      "Name": "storage.zip"
+                    },
+                    "repository": {
+                      "$ref": "16"
+                    },
+                    "Path": "C:\\Users\\Core i5-8250\\Desktop\\repo\\task2\\03.12.2022-08.17.36.84\\storage.zip"
+                  },
+                  "Objects": {
+                    "$type": "System.Collections.Generic.List`1[[Backups.Models.BackupObject, Backups]], System.Private.CoreLib",
+                    "$values": [
+                      {
+                        "$ref": "6"
+                      },
+                      {
+                        "$ref": "8"
+                      }
+                    ]
+                  },
+                  "Time": "2022-12-03T20:17:36.8432025+03:00"
+                }
+              ]
+            }
+          },
+          "logger": {
+            "$id": "24",
+            "$type": "Backups.Extra.Models.ConsoleLogger, Backups.Extra"
+          }
+        },
+        "_objects": {
+          "$type": "System.Collections.Generic.List`1[[Backups.Models.BackupObject, Backups]], System.Private.CoreLib",
+          "$values": [
+            {
+              "$ref": "6"
+            },
+            {
+              "$ref": "8"
+            }
+          ]
+        },
+        "Archiver": {
+          "$id": "25",
+          "$type": "Backups.Entities.Archiver, Backups"
+        },
+        "Objects": {
+          "$type": "System.Collections.Generic.List`1[[Backups.Models.BackupObject, Backups]], System.Private.CoreLib",
+          "$values": [
+            {
+              "$ref": "6"
+            },
+            {
+              "$ref": "8"
+            }
+          ]
+        },
+        "Algorithm": {
+          "$id": "26",
+          "$type": "Backups.Entities.SingleStorageAlgorithm, Backups"
+        },
+        "Repository": {
+          "$ref": "16"
+        },
+        "Name": "task2"
+      },
+      "logger": {
+        "$ref": "24"
+      },
+      "backup": {
+        "$ref": "3"
+      }
+    }
+  ]
+}

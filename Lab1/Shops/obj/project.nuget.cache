@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RqsGVAwtKfgwpcgufCUGa72fcSf/KYnjOxX7f2icXMswAqymFk+wOBkkuW8i2u07ex0rNhByJ6jHjK3Nk9kNmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Core i5-8250\\Desktop\\github\\ООП\\SvetaYu\\Lab1\\Shops\\Shops.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Core i5-8250\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

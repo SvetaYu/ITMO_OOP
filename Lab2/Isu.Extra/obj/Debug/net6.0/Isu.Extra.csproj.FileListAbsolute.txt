@@ -1,0 +1,15 @@
+C:\Users\Core i5-8250\Desktop\ООП\SvetaYu\Lab2\Isu.Extra\obj\Debug\net6.0\Isu.Extra.csproj.AssemblyReference.cache
+C:\Users\Core i5-8250\Desktop\ООП\SvetaYu\Lab2\Isu.Extra\obj\Debug\net6.0\Isu.Extra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Core i5-8250\Desktop\ООП\SvetaYu\Lab2\Isu.Extra\obj\Debug\net6.0\Isu.Extra.AssemblyInfoInputs.cache
+C:\Users\Core i5-8250\Desktop\ООП\SvetaYu\Lab2\Isu.Extra\obj\Debug\net6.0\Isu.Extra.AssemblyInfo.cs
+C:\Users\Core i5-8250\Desktop\ООП\SvetaYu\Lab2\Isu.Extra\obj\Debug\net6.0\Isu.Extra.csproj.CoreCompileInputs.cache
+C:\Users\Core i5-8250\Desktop\ООП\SvetaYu\Lab2\Isu.Extra\bin\Debug\net6.0\Isu.Extra.deps.json
+C:\Users\Core i5-8250\Desktop\ООП\SvetaYu\Lab2\Isu.Extra\bin\Debug\net6.0\Isu.Extra.dll
+C:\Users\Core i5-8250\Desktop\ООП\SvetaYu\Lab2\Isu.Extra\bin\Debug\net6.0\Isu.Extra.pdb
+C:\Users\Core i5-8250\Desktop\ООП\SvetaYu\Lab2\Isu.Extra\bin\Debug\net6.0\Isu.dll
+C:\Users\Core i5-8250\Desktop\ООП\SvetaYu\Lab2\Isu.Extra\bin\Debug\net6.0\Isu.pdb
+C:\Users\Core i5-8250\Desktop\ООП\SvetaYu\Lab2\Isu.Extra\obj\Debug\net6.0\Isu.Extra.csproj.CopyComplete
+C:\Users\Core i5-8250\Desktop\ООП\SvetaYu\Lab2\Isu.Extra\obj\Debug\net6.0\Isu.Extra.dll
+C:\Users\Core i5-8250\Desktop\ООП\SvetaYu\Lab2\Isu.Extra\obj\Debug\net6.0\refint\Isu.Extra.dll
+C:\Users\Core i5-8250\Desktop\ООП\SvetaYu\Lab2\Isu.Extra\obj\Debug\net6.0\Isu.Extra.pdb
+C:\Users\Core i5-8250\Desktop\ООП\SvetaYu\Lab2\Isu.Extra\obj\Debug\net6.0\ref\Isu.Extra.dll
